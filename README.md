@@ -1,0 +1,2 @@
+# ArtifacterRule
+ArtifacterBotのルール
